@@ -1,8 +1,8 @@
 # Rebeca Bugati Preza
 
 ## _Formação acadêmica_
--Atulalmente cursando desenvolvimentode sistemas na instituição SENAI "Roberto Mange".\
--Trabalhando na Bosch.\
+-Atualmente cursando desenvolvimento de sistemas na instituição SENAI "Roberto Mange".\
+-Nos dias atuais, trabalho na Bosch como jovem aprendiz em Digital Solutions.\
 -Formada em técnico em mecatrônica na instituição SENAI "Roberto Mange".
 
 ## _Redes sociais_

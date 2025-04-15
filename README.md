@@ -2,7 +2,7 @@
 
 ## _Formação acadêmica_
 -Atualmente cursando desenvolvimento de sistemas na instituição SENAI "Roberto Mange".\
--Nos dias atuais, trabalho na Bosch como jovem aprendiz em Digital Solutions.\
+-Presentemente trabalho na Bosch como jovem aprendiz em Digital Solutions.\
 -Formada em técnico em mecatrônica na instituição SENAI "Roberto Mange".
 
 ## _Redes sociais_
